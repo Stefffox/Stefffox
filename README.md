@@ -1,23 +1,17 @@
 ## Hi there 👋
 
-My name is Nathanaël, and I am currently pursuing a Bachelor's degree in Computer Science at Paul Sabatier University (Toulouse).  
-I am passionate about technology and always curious about the new developments happening every day.  
+My name is **Nathanaël**, and I am currently pursuing a Bachelor's degree in Computer Science at **Paul Sabatier University (Toulouse)**.  
+I am passionate about technology and always curious about new developments happening every day.  
 I hope to continue learning and one day contribute to the evolution of software through development.
 
-Here is the languages i'm using in my projects : <br>
+---
+
+### 🛠 Languages I use in my projects
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefffox&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Stefffox/Stefffox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out via **GitHub** or **LinkedIn** for questions, collaborations, or just to chat about tech and development.
