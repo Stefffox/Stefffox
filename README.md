@@ -23,7 +23,7 @@ Feel free to reach out via **GitHub** or **LinkedIn** for questions, collaborati
 | Logo | Technology | Description |
 |------|------------|-------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | **Java** | Bon niveau — POO, interfaces graphiques, projets complets |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ada/ada-original.svg" width="40"/> | **Ada** | Niveau correct — algorithmie, tests, projets académiques |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Ada_2022_logo-800.svg" width="40"/> | **Ada** | Niveau correct — algorithmie, tests, projets académiques |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> | **C** | Bases solides — pointeurs, tableaux, logique réseau |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | **HTML5** | Mise en page propre, structure claire |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | **CSS3** | Box model maîtrisé, styles propres |
