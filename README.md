@@ -20,8 +20,6 @@ Feel free to reach out via **GitHub** or **LinkedIn** for questions, collaborati
 
 ## 🛠️ Technologies I Use
 
-## 🛠️ Technologies I Use
-
 | Logo | Technology | Description |
 |------|------------|-------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | **Java** | Bon niveau — POO, interfaces graphiques, projets complets |
@@ -32,4 +30,18 @@ Feel free to reach out via **GitHub** or **LinkedIn** for questions, collaborati
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> | **PHP** | Bases — scripts simples, formulaires, logique serveur |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | **SQL (MySQL / Oracle)** | SELECT, JOIN, GROUP BY, création de tables |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> | **Bash** | Scripts simples, automatisations |
+
+---
+
+## 🧰 Software & Tools
+
+| Logo | Tool | Description |
+|------|------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | **Git** | Branches, merges, résolution de conflits |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/> | **Eclipse** | Développement Java, projets structurés |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | **VS Code** | Développement web / multi-langages |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnubash/gnubash-original.svg" width="40"/> | **GNAT** | Développement Ada (GNAT Studio) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/> | **SQL Developer** | Requêtes SQL, gestion de bases Oracle |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | **Looping** | Modélisation MCD/MLD |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/> | **Oracle APEX** | Dashboards, graphiques, formulaires web |
 
