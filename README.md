@@ -20,6 +20,8 @@ Feel free to reach out via **GitHub** or **LinkedIn** for questions, collaborati
 
 ## 🛠️ Technologies I Use
 
+## 🛠️ Technologies I Use
+
 | Logo | Technology | Description |
 |------|------------|-------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | **Java** | Bon niveau — POO, interfaces graphiques, projets complets |
@@ -27,6 +29,7 @@ Feel free to reach out via **GitHub** or **LinkedIn** for questions, collaborati
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> | **C** | Bases solides — pointeurs, tableaux, logique réseau |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | **HTML5** | Mise en page propre, structure claire |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | **CSS3** | Box model maîtrisé, styles propres |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> | **PHP** | Bases — scripts simples, formulaires, logique serveur |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | **SQL (MySQL / Oracle)** | SELECT, JOIN, GROUP BY, création de tables |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> | **Bash** | Scripts simples, automatisations |
 
