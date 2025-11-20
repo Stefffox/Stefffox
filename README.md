@@ -20,12 +20,13 @@ Feel free to reach out via **GitHub** or **LinkedIn** for questions, collaborati
 
 ## 🛠️ Technologies I Use
 
-| Logo | Technology |
-|------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | **Python** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | **Java** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | **JavaScript** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> | **PHP** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | **HTML5** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | **CSS3** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | **Git** |
+| Logo | Technology | Description |
+|------|------------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | **Java** | Bon niveau — POO, interfaces graphiques, projets complets |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ada/ada-original.svg" width="40"/> | **Ada** | Niveau correct — algorithmie, tests, projets académiques |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> | **C** | Bases solides — pointeurs, tableaux, logique réseau |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | **HTML5** | Mise en page propre, structure claire |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | **CSS3** | Box model maîtrisé, styles propres |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | **SQL (MySQL / Oracle)** | SELECT, JOIN, GROUP BY, création de tables |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> | **Bash** | Scripts simples, automatisations |
+
