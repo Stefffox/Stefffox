@@ -8,7 +8,7 @@ I hope to continue learning and one day contribute to the evolution of software 
 
 ### 🛠 Languages I use in my projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefffox&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stéfffox&theme=tokyonight)
 
 ---
 
