@@ -10,8 +10,6 @@ I hope to continue learning and one day contribute to the evolution of software 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefffox&layout=compact&langs_count=8&theme=dark&cache_seconds=86400)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 Contact
