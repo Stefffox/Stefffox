@@ -2,7 +2,7 @@
 
 # Hi there, I'm Nathanaël 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=550&lines=Computer+Science+Student+%40+Paul+Sabatier;Building+things+I+want+to+exist;AI+%26+Gameplay+Dev+Enthusiast;Dream+studio+%3A+Arkane+Studios" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=550&lines=Computer+Science+Student+%40+Paul+Sabatier;Building+things+I+want+to+exist;AI+%26+Gameplay+Dev+Enthusiast;Indie+maker+%C2%B7+Building+toward+Rotterdam" alt="Typing SVG" />
 
 </div>
 
