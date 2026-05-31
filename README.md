@@ -10,6 +10,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-stefox.vercel.app-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://stefox.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathanaël_Daunis-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nathanael-daunis-726665296/)
 [![GitHub](https://img.shields.io/badge/GitHub-Stefffox-181717?style=for-the-badge&logo=github)](https://github.com/Stefffox)
 
